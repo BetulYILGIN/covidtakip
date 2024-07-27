@@ -1,4 +1,4 @@
-# covidtakip# covidtakip
+# covidtakipkds# covidtakipkds
 ### Projenin Amacı
 - Covid için ayrı bir listelemeye olanak sağlar.
 - Covid'e yakalananların cinsiyet oranlarını gösterir.
